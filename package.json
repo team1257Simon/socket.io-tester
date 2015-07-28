@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/team1257Simon/socket.io-tester/issues"
   },
-  "homepage": "https://github.com/team1257Simon/socket.io-tester#readme"
+  "homepage": "https://github.com/team1257Simon/socket.io-tester#readme",
+  "dependencies": {
+    "socket.io": "^1.3.6"
+  }
 }
