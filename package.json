@@ -1,0 +1,19 @@
+{
+  "name": "socket.io-tester",
+  "version": "1.0.0",
+  "description": "Test message listeners for socket.io!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team1257Simon/socket.io-tester.git"
+  },
+  "author": "Nathan Simon",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/team1257Simon/socket.io-tester/issues"
+  },
+  "homepage": "https://github.com/team1257Simon/socket.io-tester#readme"
+}
