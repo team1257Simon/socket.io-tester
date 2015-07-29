@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/team1257Simon/socket.io-tester#readme",
   "dependencies": {
+    "keypress": "^0.2.1",
     "socket.io": "^1.3.6"
   }
 }
